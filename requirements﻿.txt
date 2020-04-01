@@ -1,0 +1,13 @@
+pandas
+numpy
+re
+operator
+multiprocessing
+nltk
+sklearn
+gensim
+keras
+matplotlib
+twitter
+time
+csv
